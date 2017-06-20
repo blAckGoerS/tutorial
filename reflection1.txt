@@ -1,0 +1,15 @@
+version control 
+
+git log 
+git log --stat
+
+git diff 
+
+git --version 
+
+git clone 
+HEAD 
+commit 
+repository 
+git checkout 
+working directory
