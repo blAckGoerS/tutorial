@@ -1,0 +1,17 @@
+working directory 
+staging area 
+repositories 
+
+.git hidden directory/files 
+meta data about history of the files in repository 
+-to see in Linux using ls -a
+
+working directory
+git init 
+git log 
+git add 
+staging area 
+git commit -m "commit message"
+
+master branch 
+untrack files 
